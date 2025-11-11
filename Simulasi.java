@@ -1,6 +1,3 @@
-// File: Simulasi.java
-// TUGAS ANGGOTA KE-3: LOGIKA UTAMA DAN PERHITUNGAN
-
 public class Simulasi {
 
     public static void main(String[] args) {
